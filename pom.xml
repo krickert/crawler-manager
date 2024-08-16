@@ -28,7 +28,25 @@
     <maven.compiler.source>17</maven.compiler.source>
     <maven.compiler.target>17</maven.compiler.target>
   </properties>
+  <name>crawler-manager</name>
+  <description>Manages web crawls</description>
+  <url>http://github.com/krickert/crawler-manager</url>
 
+  <licenses>
+    <license>
+      <name>The Apache Software License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+    </license>
+  </licenses>
+
+  <developers>
+    <developer>
+      <name>Kristian Rickert</name>
+      <email>krickert@rokkon.com</email>
+      <organization>Rokkon</organization>
+      <organizationUrl>http://www.rokkon.com</organizationUrl>
+    </developer>
+  </developers>
   <repositories>
     <repository>
       <id>central</id>
